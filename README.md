@@ -64,6 +64,15 @@ GROUP BY city
 ORDER BY total_sales DESC;
 
 ---
+## Project Screnshots
+athena1.png
+crawler1.png
+crawler_log1.png
+crawler_log2.png
+glue.png
+glue_tables.png
+s3 1.png
+s3.png
 
 ## Resume Impact
 
