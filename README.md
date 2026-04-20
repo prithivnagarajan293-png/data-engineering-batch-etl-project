@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Batch ETL Pipeline Project
 
 ## Project Overview
@@ -73,3 +74,7 @@ This project demonstrates practical experience in:
 * Data Lake + Data Warehouse design
 * SQL analytics
 * Production-style cloud data workflows
+=======
+# aws-batch-etl-pipeline
+Batch ETL Pipeline using AWS S3, Glue, Athena and Redshift
+>>>>>>> c3f0c78647cfbd0289486dda20d326ccbef1ed43
